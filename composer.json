@@ -4,7 +4,7 @@
   "license": "mit",
   "require": {
     "php": "^7.1",
-    "symfony/property-access": "^4.1",
+    "symfony/property-access": "^5",
     "doctrine/annotations": "^1.6",
     "fzaninotto/faker": "^1.8",
     "icomefromthenet/reverse-regex": "^0.1.0",
